@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobyParak
-- 🌱 I’m currently studying Information Technology
+- 🌱 I’m currently 3rd year IT student in the Netherlands
 
 <!---
 RobyParak/RobyParak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
