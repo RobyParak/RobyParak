@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RobyParak
 - ✨ I’m currently 4th year IT student in the Netherlands ✨
 - Java is my favourite language
-- Currently learning Kotlin and Swift
-- We do not talk about PHP
+- Learning Golang next 
+- We do not talk about PHP 
 
 <!---
 RobyParak/RobyParak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
