@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobyParak
-- ✨ I’m currently 4th year IT student in the Netherlands ✨
+- ✨ I'm a graduating student in the Netherlands ✨
 - Java is my favourite language
 - Learning Golang next 
 - We do not talk about PHP 
